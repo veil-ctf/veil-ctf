@@ -10,9 +10,11 @@
 ## Database:
 
 <details>
-    <summary>view list...</summary>
+    <summary>View list</summary>
     <ul>
         <li>MySQL</li>
+        <li>MariaDB</li>
+        <li>MongoDB</li>
     </ul>
 </details>
 
