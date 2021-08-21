@@ -1,25 +1,14 @@
-<!--
-Welcome to this README template!
-
-To help you navigate, in any section you want to edit, I've put a comment written EDIT.
-
-Have fun!
--->
-
 <p align="center">
-  <h3 align="center">README Template</h3> <!-- EDIT -->
+  <h3 align="center">README Template</h3>
   <p align="center">
-    A README template for when you quickly need to make a beautiful project description! <!-- EDIT -->
+    A README template for when you quickly need to make a beautiful project description!
   </p>
-  <!-- EDIT: Head over to https://shields.io/ to generate some beautiful shields! -->
   <p align="center">
     <a href="https://github.com/TGlide/README-TEMPLATE">
       <img src="https://img.shields.io/badge/Built with-README Template-%23000000?style=for-the-badge&logo=read-the-docs" alt="Built with README Template">
     </a>
   </p>
 </p>
-
-<!-- EDIT: TABLE OF CONTENTS -->
 
 ## Table of Contents
 
@@ -33,15 +22,10 @@ Have fun!
   - [Run App](#run-app)
   - [Preview](#preview)
 
-<!-- EDIT: ABOUT THE PROJECT -->
-
 ## About The Project
-
-The absolute coolest readme template around! <!-- EDIT -->
 
 ### Built With
 
-<!-- EDIT -->
 - Frontend
   - [Library](https://github.com/TGlide/README-TEMPLATE/) 
 - Backend
