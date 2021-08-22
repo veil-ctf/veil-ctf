@@ -8,6 +8,5 @@
 
 ## Active Projects:
 <a href="https://github.com/veil-ctf/PyServ">PyServ</a><br>
-<a href="https://github.com/veil-ctf/MCsniperPY">MCsniperPY</a>
 
 Last Edited on: 21/08/2021
