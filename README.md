@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=veil-ctf&show_icons=true&count_private=true&theme=prussian"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=veil-ctf&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
 ## Programming Languages:
